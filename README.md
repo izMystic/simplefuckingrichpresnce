@@ -10,5 +10,5 @@ put the image name from Rich Presence Art Assets in the client.lua where it says
 put discord link or whatever other text you want where it says DISCORD_LINK_HERE\
 put it in resources\
 add it to server.cfg\
-restart server or do `refresh` in console then do `start (resource name`\
-have fun ig\
+restart server or do `refresh` in console then do `start (resource name`)\
+have fun ig
