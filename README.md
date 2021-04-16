@@ -3,7 +3,7 @@ A FiveM Rich presence script someone wanted me to make
 
 # Installation
 extract the compressed folder\
-make an application here: https://discord.com/developers/applications\
+make an application here: https://discord.com/developers/applications/ \
 add an image to Rich Presence Art Assets\
 put the client id of the application in the client.lua where it says CLIENT_ID_HERE\
 put the image name from Rich Presence Art Assets in the client.lua where it says IMAGE_NAME_HERE\
