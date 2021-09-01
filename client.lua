@@ -8,6 +8,6 @@ Citizen.CreateThread(function()
     SetDiscordRichPresenceAction(0, "Button 1 Text", "Button 1 link")
     SetDiscordRichPresenceAction(1, "Button 2 Text", "Button 2 Link")
     while true do
-        Citizen.Wait(2500)
+        Citizen.Wait(15000)
     end
 end)
