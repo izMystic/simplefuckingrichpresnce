@@ -9,5 +9,5 @@ put the client id of the application in the client.lua where it says CLIENT_ID_H
 put the image name from Rich Presence Art Assets in the client.lua where it says IMAGE_NAME_HERE\
 put discord link or whatever other text you want where it says DISCORD_LINK_HERE\
 put it in resources\
-add it to server.cfg\ (ensure Mystic-DiscordRPC) \
+add it to server.cfg (ensure Mystic-DiscordRPC) \
 restart server or do `refresh` in console then do `ensure Mystic-DiscordRPC`\
