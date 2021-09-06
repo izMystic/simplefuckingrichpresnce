@@ -1,4 +1,4 @@
-# simplefuckingrichpresnce
+# simplefuckingrichpresence
 A FiveM Rich presence script someone wanted me to make
 
 # Installation
